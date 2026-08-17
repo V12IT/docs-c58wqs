@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-xoip4x.ai-photo-stock.com/sitemap.xml
